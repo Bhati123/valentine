@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<dos.h>
 #include<graphics.h>
-#include<process.h>
+#include<process.h>//vbvvbnb nb  b 
 #include<stdlib.h>
 //-------------------------------------------------------------------
 //Graphics initializing
