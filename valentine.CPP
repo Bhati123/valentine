@@ -8,7 +8,7 @@
 //Graphics initializing
 void load()
 {int gd=DETECT,gm;
-initgraph(&gd,&gm,"c://turboc3//bgi");
+initgraph(&gd,&gm,"c://turboc3//bgi");//bhh
 rectangle(0,0,getmaxx(),getmaxy());
 }
 //-------------------------------------------------------------------
