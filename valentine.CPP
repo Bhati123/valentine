@@ -1,9 +1,9 @@
-#include<conio.h>
-#include<stdio.h>
-#include<dos.h>
-#include<graphics.h>
-#include<process.h>//vbvvbnb nb  b 
-#include<stdlib.h>
+#include<conio>
+#include<stdio>
+#include<dos>
+#include<graphics>
+#include<process>//vbvvbnb nb  b 
+#include<stdlib>
 //-------------------------------------------------------------------
 //Graphics initializing
 void load()
